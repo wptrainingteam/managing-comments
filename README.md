@@ -87,7 +87,11 @@ Navigate back to the Dashboard by locating the button that looks like this in t
 3.  Both 1 and 2
 4.  Neither 1 or 2
 
-**Answer:** 3\. Both 1 and 2\. The default settings allow comments to be left on both pages and posts. It's possible to limit where comments are allowed in the [Discussion Settings](https://make.wordpress.org/training/handbook/user-lessons/settings/). **It is not possible to mark a comment as approved from anywhere but the Comments page.**
+**Answer:** 3\. Both 1 and 2\. The default settings allow comments to be left on both pages and posts. It's possible to limit where comments are allowed in the [Discussion Settings](https://make.wordpress.org/training/handbook/user-lessons/settings/). 
+
+<hr>
+
+**It is not possible to mark a comment as approved from anywhere but the Comments page.**
 
 1.  True
 2.  False
