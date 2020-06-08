@@ -30,7 +30,7 @@ You will be better equipped to work through this lesson if you have experience i
 
 ## Teacher Notes
 
-*   If your students are very new to WordPress (or you're teaching this as part of the Getting to Know WordPress workshop) they may not have any comments on their blog posts yet. Have everyone pair up and leave comments on each others' sites!
+*   If your students are very new to WordPress (or you're teaching this as part of the Getting to Know WordPress workshop) they may not have any comments on their blog posts yet. Have everyone pair up and leave comments on each other's sites!
 *   The screenshots and images in this lesson are meant as a guide as you prepare the material. This lesson is intended to be a live walkthrough/demo on a projector for your students to follow along with.
 
 ## Hands-on Walkthrough
@@ -49,7 +49,7 @@ You've just gotten your first comment on your blog. The next thing that you have
 
 *   Let's walk through a brief anatomy lesson on how comments are organized. We've got four columns of information related to each comment: Author, Comment, In Response to, Submitted On.
     *   The "Author" column includes links to the comment author's website, their email address, and the IP address that the comment was posted from.
-    *   In the "Comment" column, hovering over the comment itself will cause the following options to appear below it: Approve/Unapprove | Reply | Quick Edit | Edit | History | Spam | Trash
+    *   In the "Comment" column, hovering over the comment itself will cause the following options to appear below it: Approved/Unapproved | Reply | Quick Edit | Edit | History | Spam | Trash
     *   The "In Response To" column includes a link to the edit screen, the published post/page, and a comment counter that shows how many comments are already on that post/page.
     *   The "Submitted On" column lists the date and time stamp that indicate when the comment was posted.
 
